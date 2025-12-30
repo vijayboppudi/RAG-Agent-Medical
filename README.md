@@ -4,7 +4,7 @@ A beautiful and intelligent Retrieval-Augmented Generation (RAG) chatbot for med
 
 ## 🚀 Features
 
-- **Beautiful Modern UI**: Sleek chat interface with gradient backgrounds and smooth animations
+- **UI**: Sleek chat interface with gradient backgrounds and smooth animations
 - **RAG Pipeline**: Retrieval-augmented generation using vector search
 - **Medical Focus**: Specialized for health and medical information queries
 - **Real-time Chat**: Interactive chatbot with typing indicators
@@ -21,7 +21,7 @@ A beautiful and intelligent Retrieval-Augmented Generation (RAG) chatbot for med
 
 ## 📋 Prerequisites
 
-- Python 3.8+
+- Python 3.11+
 - OpenAI API Key
 - Virtual environment (recommended)
 
@@ -72,6 +72,13 @@ A beautiful and intelligent Retrieval-Augmented Generation (RAG) chatbot for med
 
 3. **Start chatting** with your medical RAG assistant!
 
+4. ## Working
+
+Local host-
+
+<img width="1328" height="915" alt="Screenshot 2025-12-30 134555" src="https://github.com/user-attachments/assets/aecfcbf2-bb13-4147-9718-2bbd0274823b" />
+
+
 ## 📁 Project Structure
 
 ```
@@ -95,6 +102,8 @@ medical-rag-assistant/
 4. **Query Processing**: User questions are embedded and matched against stored vectors
 5. **RAG Generation**: Retrieved relevant chunks are used as context for GPT-4 responses
 6. **Beautiful UI**: Modern chat interface displays responses with source citations
+
+
 
 ## 🔒 Safety Features
 
