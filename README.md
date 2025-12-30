@@ -72,7 +72,6 @@ A beautiful and intelligent Retrieval-Augmented Generation (RAG) chatbot for med
 
 3. **Start chatting** with your medical RAG assistant!
 
-4. ## Working
 
 Local host-
 
