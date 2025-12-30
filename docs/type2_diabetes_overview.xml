@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="type2_diabetes_overview">
+  <title>Type 2 Diabetes Overview</title>
+  <metadata>
+    <created>2025-12-29</created>
+    <tags>demo, rag, medical, type2</tags>
+    <license>Synthetic (generated for demo)</license>
+    <source>generated</source>
+  </metadata>
+  <sections>
+    <section>
+      <heading>Summary</heading>
+      <content>This is a fictional educational document about Type 2 Diabetes Overview. It is for software testing and does not provide medical advice.</content>
+    </section>
+    <section>
+      <heading>Key points</heading>
+      <content>Symptoms and experiences can vary from person to person.
+Diagnosis and treatment decisions should be made by licensed clinicians.
+This content is designed to test retrieval, chunking, and citation workflows.</content>
+    </section>
+    <section>
+      <heading>Background</heading>
+      <content>Many health topics involve definitions, risk factors, typical signs, and lifestyle
+considerations. In real-world systems, you would source this content from approved medical
+references and keep it current. Here we include placeholders and neutral phrasing suitable for
+demonstrations.</content>
+    </section>
+    <section>
+      <heading>Questions to ask a clinician</heading>
+      <content>What might be causing my symptoms?
+What tests are commonly used to evaluate this condition?
+What lifestyle changes are generally recommended?
+When should I seek urgent care?</content>
+    </section>
+    <section>
+      <heading>Glossary</heading>
+      <content>Risk factor: Something that can increase the chance of a condition.
+Symptom: A change you notice or feel (e.g., pain, fatigue).
+Screening: Testing used to look for conditions before symptoms appear.</content>
+    </section>
+    <section>
+      <heading>References</heading>
+      <content>For production, replace with curated sources (e.g., official guidelines, drug labels, institutional content).</content>
+    </section>
+  </sections>
+</document>

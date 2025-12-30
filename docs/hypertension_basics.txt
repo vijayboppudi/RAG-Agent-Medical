@@ -1,0 +1,35 @@
+Hypertension (High Blood Pressure) Basics
+
+Summary
+-------
+This is a fictional educational document about Hypertension (High Blood Pressure) Basics. It is for software testing and does not provide medical advice.
+
+Key points
+----------
+Symptoms and experiences can vary from person to person.
+Diagnosis and treatment decisions should be made by licensed clinicians.
+This content is designed to test retrieval, chunking, and citation workflows.
+
+Background
+----------
+Many health topics involve definitions, risk factors, typical signs, and lifestyle
+considerations. In real-world systems, you would source this content from approved medical
+references and keep it current. Here we include placeholders and neutral phrasing suitable for
+demonstrations.
+
+Questions to ask a clinician
+----------------------------
+What might be causing my symptoms?
+What tests are commonly used to evaluate this condition?
+What lifestyle changes are generally recommended?
+When should I seek urgent care?
+
+Glossary
+--------
+Risk factor: Something that can increase the chance of a condition.
+Symptom: A change you notice or feel (e.g., pain, fatigue).
+Screening: Testing used to look for conditions before symptoms appear.
+
+References
+----------
+For production, replace with curated sources (e.g., official guidelines, drug labels, institutional content).

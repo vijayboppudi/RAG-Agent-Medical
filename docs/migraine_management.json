@@ -1,0 +1,38 @@
+{
+  "doc_id": "migraine_management",
+  "title": "Migraine Management: Triggers and Options",
+  "source_type": "json",
+  "metadata": {
+    "created": "2025-12-29",
+    "tags": "demo, rag, medical, migraine",
+    "license": "Synthetic (generated for demo)",
+    "source": "generated"
+  },
+  "sections": [
+    {
+      "heading": "Summary",
+      "content": "This is a fictional educational document about Migraine Management: Triggers and Options. It is for software testing and does not provide medical advice."
+    },
+    {
+      "heading": "Key points",
+      "content": "Symptoms and experiences can vary from person to person.\nDiagnosis and treatment decisions should be made by licensed clinicians.\nThis content is designed to test retrieval, chunking, and citation workflows."
+    },
+    {
+      "heading": "Background",
+      "content": "Many health topics involve definitions, risk factors, typical signs, and lifestyle\nconsiderations. In real-world systems, you would source this content from approved medical\nreferences and keep it current. Here we include placeholders and neutral phrasing suitable for\ndemonstrations."
+    },
+    {
+      "heading": "Questions to ask a clinician",
+      "content": "What might be causing my symptoms?\nWhat tests are commonly used to evaluate this condition?\nWhat lifestyle changes are generally recommended?\nWhen should I seek urgent care?"
+    },
+    {
+      "heading": "Glossary",
+      "content": "Risk factor: Something that can increase the chance of a condition.\nSymptom: A change you notice or feel (e.g., pain, fatigue).\nScreening: Testing used to look for conditions before symptoms appear."
+    },
+    {
+      "heading": "References",
+      "content": "For production, replace with curated sources (e.g., official guidelines, drug labels, institutional content)."
+    }
+  ],
+  "full_text": "Migraine Management: Triggers and Options\n\nSummary\n-------\nThis is a fictional educational document about Migraine Management: Triggers and Options. It is for software testing and does not provide medical advice.\n\nKey points\n----------\nSymptoms and experiences can vary from person to person.\nDiagnosis and treatment decisions should be made by licensed clinicians.\nThis content is designed to test retrieval, chunking, and citation workflows.\n\nBackground\n----------\nMany health topics involve definitions, risk factors, typical signs, and lifestyle\nconsiderations. In real-world systems, you would source this content from approved medical\nreferences and keep it current. Here we include placeholders and neutral phrasing suitable for\ndemonstrations.\n\nQuestions to ask a clinician\n----------------------------\nWhat might be causing my symptoms?\nWhat tests are commonly used to evaluate this condition?\nWhat lifestyle changes are generally recommended?\nWhen should I seek urgent care?\n\nGlossary\n--------\nRisk factor: Something that can increase the chance of a condition.\nSymptom: A change you notice or feel (e.g., pain, fatigue).\nScreening: Testing used to look for conditions before symptoms appear.\n\nReferences\n----------\nFor production, replace with curated sources (e.g., official guidelines, drug labels, institutional content)."
+}

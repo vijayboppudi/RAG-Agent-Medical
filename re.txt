@@ -1,0 +1,4 @@
+jupyter
+pypdf
+beautifulsoup4
+lxml
