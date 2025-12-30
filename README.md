@@ -14,7 +14,7 @@ A beautiful and intelligent Retrieval-Augmented Generation (RAG) chatbot for med
 ## 🛠️ Tech Stack
 
 - **Backend**: FastAPI, Python
-- **AI/ML**: OpenAI GPT-4, OpenAI Embeddings, LangGraph
+- **AI/ML**: OpenAI GPT-4 family (gpt-4o-mini), OpenAI Embeddings, LangGraph
 - **Vector Database**: Qdrant
 - **Frontend**: HTML, CSS, JavaScript
 - **Data Processing**: Jupyter Notebooks
@@ -25,7 +25,7 @@ A beautiful and intelligent Retrieval-Augmented Generation (RAG) chatbot for med
 - OpenAI API Key
 - Virtual environment (recommended)
 
-## 🔧 Installation
+## 🔧 Quick Start
 
 1. **Clone the repository**:
    ```bash
@@ -98,12 +98,17 @@ medical-rag-assistant/
 
 ## 🤖 How It Works
 
-1. **Document Processing**: Medical documents are processed and chunked
-2. **Embedding Generation**: Text chunks are converted to vector embeddings
-3. **Vector Storage**: Embeddings stored in Qdrant vector database
-4. **Query Processing**: User questions are embedded and matched against stored vectors
-5. **RAG Generation**: Retrieved relevant chunks are used as context for GPT-4 responses
-6. **Beautiful UI**: Modern chat interface displays responses with source citations
+<details>
+<summary>Click to expand</summary>
+
+1. Document Processing  
+2. Chunking  
+3. Embeddings  
+4. Vector Search  
+5. LangGraph Agent  
+6. UI Rendering  
+
+</details>
 
 
 
