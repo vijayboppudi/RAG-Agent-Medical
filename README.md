@@ -101,12 +101,12 @@ medical-rag-assistant/
 <details>
 <summary>Click to expand</summary>
 
-1. Document Processing  
-2. Chunking  
-3. Embeddings  
-4. Vector Search  
-5. LangGraph Agent  
-6. UI Rendering  
+1. Document Processing: Medical documents are processed and chunked  
+2. Embedding Generation: Text chunks are converted to vector embeddings  
+3. Vector Storage: Embeddings stored in Qdrant vector database  
+4. Query Processing: User questions are embedded and matched  
+5. RAG Generation: Retrieved chunks used as GPT context  
+6. UI Rendering: Responses shown with citations
 
 </details>
 
