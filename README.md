@@ -77,6 +77,9 @@ Local host-
 
 <img width="1328" height="915" alt="Screenshot 2025-12-30 134555" src="https://github.com/user-attachments/assets/aecfcbf2-bb13-4147-9718-2bbd0274823b" />
 
+<img width="1468" height="932" alt="Screenshot 2025-12-30 144110" src="https://github.com/user-attachments/assets/0c984884-cf7f-4913-b81b-879d763d381b" />
+
+
 
 ## 📁 Project Structure
 
